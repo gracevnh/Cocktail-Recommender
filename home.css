@@ -1,0 +1,33 @@
+body {
+    font-family: "Time New Roman", Times, serif;
+    color:#7C3030;
+    background-color:#F2D2BD;
+}
+img {
+    width: 500px;
+    height: auto;
+}
+#header {
+    margin-top: 10px;
+    border-bottom: 5px solid #7C3030;
+    font-family: "Time New Roman", Times, serif; 
+}
+#header h1 {
+    background-color:#F2D2BD;
+    margin: 0;
+    color:#7C3030;
+}
+#navbar {
+    background-image: url('img/coverpage.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px; /* Adjust height as needed */
+    border-bottom: 5px solid #7C3030;
+    font-family: "Time New Roman", Times, serif; 
+}
+#navbar li a {
+    color: #7C3030;
+}
+#content {
+    margin-top: 20px;
+}
